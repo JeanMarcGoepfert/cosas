@@ -1,3 +1,3 @@
 ### Show commit log for file
 
-git log -follow file/path
+git log --follow file/path
